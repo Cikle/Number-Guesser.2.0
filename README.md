@@ -18,14 +18,14 @@ Das Number Guesser-Projekt ist ein C#-Programm, das entwickelt wurde, um ein int
 
 ## Technische Details
 
-Das Programm wurde mit C# und WinForms.NET entwickelt, um eine benutzerfreundliche Benutzeroberfläche bereitzustellen. Es wurde darauf geachtet, das Design ansprechend und intuitiv zu gestalten, um das Spielerlebnis zu verbessern.
+Das Programm wurde mit C# und WinForms.NET entwickelt, um eine benutzerfreundliche Benutzeroberfläche bereitzustellen. Es wurde darauf geachtet, das Design ansprechend und gut gestalten ist, um das Spielerlebnis zu verbessern.
 
 Das Number Guesser-Spiel bietet eine unterhaltsame Möglichkeit, das Programmieren mit OOP in C# zu üben und die Grundlagen der Benutzeroberflächengestaltung mit WinForms.NET zu erlernen.
 
 ## Projektfortschritt und Erfahrungen
 
-Während der Entwicklung des Number Guesser-Projekts gab es Herausforderungen wie die Validierung von Benutzereingaben, das Handling von Zufallszahlen und die Implementierung der Spiellogik. Dank Online-Ressourcen und Recherche konnte ich diese Hindernisse erfolgreich bewältigen.
+Während der Entwicklung des Number Guesser-Projekts gab es Herausforderungen wie die das OOP (Da ich das noch nie gemacht habe). Dank Online-Ressourcen und Kollegen konnte ich diese Hindernisse jedoch erfolgreich bewältigen.
 
-Das Projekt hat meine Kenntnisse in C# und OOP (Objekt-Orientiertes-Programieren) vertieft und mir wertvolle Erfahrungen in der Arbeit mit WinForms.NET verschafft. Ich habe gelernt, wie man Benutzerinteraktionen effektiv implementiert und komplexe Logik in C# umsetzt.
+Das Projekt hat meine Kenntnisse in C# und in OOP (Objekt-Orientiertes-Programieren) vertieft und mir wertvolle Erfahrungen in der Arbeit mit WinForms.NET verschafft. Ich habe gelernt, wie man Benutzerinteraktionen effektiv implementiert und wie man  einen Code in Klassen unterteilt.
 
 Insgesamt war das Number Guesser.2.0-Projekt eine gute Erfahrung, die meine Fähigkeiten im Objekt-Orientierten-Programmieren und in der Benutzeroberflächengestaltung erweitert hat.
