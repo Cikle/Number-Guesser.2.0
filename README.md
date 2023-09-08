@@ -8,7 +8,7 @@ Gruppenmitglieder: Cyril Lutziger
 
 Das Number Guesser-Projekt ist ein C#-Programm, das entwickelt wurde, um ein interaktives Ratespiel zu bieten. Der Spieler versucht, eine zufällige Zahl zwischen 1 und 100 zu erraten.
 
-Funktionen des Programms:
+### Funktionen des Programms:
 
 - Generierung einer zufälligen Zahl zwischen 1 und 100.
 - Eingabeaufforderung für den Spieler.
