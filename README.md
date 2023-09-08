@@ -20,7 +20,7 @@ Funktionen des Programms:
 
 Das Programm wurde mit C# und WinForms.NET entwickelt, um eine benutzerfreundliche Benutzeroberfläche bereitzustellen. Es wurde darauf geachtet, das Design ansprechend und intuitiv zu gestalten, um das Spielerlebnis zu verbessern.
 
-Das Number Guesser-Spiel bietet eine unterhaltsame Möglichkeit, das Programmieren in C# zu üben und die Grundlagen der Benutzeroberflächengestaltung mit WinForms.NET zu erlernen.
+Das Number Guesser-Spiel bietet eine unterhaltsame Möglichkeit, das Programmieren mit OOP in C# zu üben und die Grundlagen der Benutzeroberflächengestaltung mit WinForms.NET zu erlernen.
 
 ## Projektfortschritt und Erfahrungen
 
