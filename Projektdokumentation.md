@@ -63,16 +63,16 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  18.08     |    Cyril Lutziger     |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
-| 2.A  |  18.08     |    Cyril Lutziger     |      Das Programm hat einen Start-screen, Spiel-screen und gewinnerscreen.       |     90min       |
-| 3.A  |    25.08   | Cyril Lutziger      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
-| 4.A  |    25.08   | Cyril Lutziger      |     Das designen vom Umfeld des spieles und die verschiedene Seiten     |     45min      |
-| 5.A  |    1.09   | Cyril Lutziger      |    Problembehebungen des codes       |    90min      |
-| 6.A  |    1.09   | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
-| 7.A  |   8.09   | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
-| 8.A  |    8.09   | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
-| 9.A  |    8.09   | Cyril Lutziger      |    Möchten Sie nochmals Spielen und Exit? Button      |    25min      |
-| 10.A  |    8.09   | Cyril Lutziger      |    Sound und Musik    |    40min      |
+| 1.A  | 18.08 | Cyril Lutziger      |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
+| 2.A  | 18.08 | Cyril Lutziger      |      Das Programm hat einen Start-screen, Spiel-screen und gewinnerscreen.       |     90min       |
+| 3.A  | 25.08 | Cyril Lutziger      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
+| 4.A  | 25.08 | Cyril Lutziger      |     Das designen vom Umfeld des spieles und die verschiedene Seiten     |     45min      |
+| 5.A  |  1.09 | Cyril Lutziger      |    Problembehebungen des codes       |    90min      |
+| 6.A  |  1.09 | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
+| 7.A  |  8.09 | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
+| 8.A  |  8.09 | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
+| 9.A  |  8.09 | Cyril Lutziger      |    Möchten Sie nochmals Spielen und Exit? Button      |    25min      |
+| 10.A |  8.09 | Cyril Lutziger      |    Sound und Musik    |    40min      |
 
 Total: 
 
@@ -83,22 +83,28 @@ Ich nehme an das der User ein einfaches aber noch gut assehendes design will, so
 
 Ich nehme an das der User Zahlen eingibt die entwedder grösser oder kleiner sind und erwarte dass, das Programm diese anzeigt.
 
-Ich nehme an das der User einen Gewinnerscreen haben will, somit er sich belohnt fühlt wenn er es geschafft hat.
+Ich nehme an das der User einen Gewinnerscreen haben will, somit er sich belohnt fühlt wenn er es geschafft hat + einen Applaus sound.
 
-Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob sie nochmals spielen wollen.
+Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob sie nochmals spielen wollen oder zurück zum main screen gehen wollen.
+
+Ich denke das der User auch wissen will wieviel versuche er gebraucht hatte, und dies im Gewinnerscreen angezeigt wird.
+
+Ich denke das der User auch wissen will welche nummern er/sie schon eingegeben hatte.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   18.08    |   Cyril Lutziger        |     2x 45          |      135min           |
-| 2.A  |   30.08    |    Cyril Lutziger       |      45min         |      60min             |
-| 3.A  |   30.08    |    Cyril Lutziger       |      45min         |      30min             |
-| 4.A  |   06.09    |    Cyril Lutziger       |      45min         |      90min             |
-| 5.A  |   06.09    |    Cyril Lutziger       |      20         |      45min             |
-| 6.A  |   06.09    |    Cyril Lutziger       |      45         |      konnte dies nicht implementieren, hatte immer wieder Probleme             |
-| 7.A  |    6.09   | Cyril Lutziger      |    45      |    90+min      |
-| 8.A  |    6.09   | Cyril Lutziger      |    45      |    90min      |
+| 1.A  | 18.08 | Cyril Lutziger  | 90min   |    135min         |
+| 2.A  | 18.08 | Cyril Lutziger  | 90min   |    60min          |
+| 3.A  | 25.08 | Cyril Lutziger  | 45min   |    30min          |
+| 4.A  | 25.08 | Cyril Lutziger  | 45min   |    40min          |
+| 5.A  |  1.09 | Cyril Lutziger  | 20min   |    45min          |
+| 6.A  |  1.09 | Cyril Lutziger  | 45min   |    50min          |
+| 7.A  |  8.09 | Cyril Lutziger  | 45min   |    80min          |
+| 8.A  |  8.09 | Cyril Lutziger  | 45min   |    50min          |
+| 9.A  |  8.09 | Cyril Lutziger  | 25min   |    20min          |
+| 10.A |  8.09 | Cyril Lutziger  | 40min   |    20min          |
 
 ## 5 Kontrollieren
 
