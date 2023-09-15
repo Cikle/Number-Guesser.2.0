@@ -31,7 +31,7 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 | 6  |      muss       |   F  |  Die anzahl von versuchen am schluss des spieles anzeigen. |
 | 7  |      kann       |   Q  |  Musik und Soundeffekte beinhalten. |
 | 8  |      kann       |   Q  |  Das spiel restarten während man am spielen ist. |
-| 9  |      kann       |   Q  |  Das spiel wärend man spielt exiten. |
+| 9  |      kann       |   Q  |  Das spiel wärend man spielt exiten, jedoch aber wieder weiterspielen. |
 
 
 
@@ -39,13 +39,18 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Programm ist gestartet und hat sich eine Zahl zwischen 1 und 100 generiert |  24      |  kleiner oder grösser     |
-| 1.2  | Das Programm ist gestartet und sagt mir ob meine Eingabe z.B. die 24 grösser oder kleiner ist als die Zahl des Computers  |  24      |  kleiner oder grösser     |
-| 2.1  | Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.| eine von den 26 buchstaben oder Sonderzeichen |   Warnungsfeld mit "Ihre Eingabe ist ungültig oder wurde nicht erkannt, bitte geben Sie diese erneut ein."|
-| 3.1  | Ein Sie haben gewonnen Schrift | 24 |   "Sie haben Gewonnen!"|
-| 4.1 | ein gewinner "Sie haben Gewonnen Screen" | verschiedenen designs mit farben etc. | Ein gutes design |
-| 4.2  | Ein Sie haben gewonnen Bildschirm | Farben Schriften etc. |  "Sie haben Gewonnen!" |
-| 5.1  | Möchten Sie nochmals spielen? | ja/nein |  das ganze Programm nochmals durchführen oder beenden. |
+| 1.1  | Das Programm ist gestartet und zeigt einen start screen |  10      |  Start-Screen mit play button     |
+| 1.2  | Das Programm ist gestartet und hat sich eine Zahl zwischen 1 und 100 generiert |  24      |  kleiner oder grösser     |
+| 1.3  | Das Programm ist gestartet und sagt mir ob meine Eingabe z.B. die 24 grösser oder kleiner ist als die Zahl des Computers  |  20      |  kleiner oder grösser     |
+| 2.1  | Das Programm ist gestartet und ich kann das spiel neustarten  |  24      |  restart, neue generation von einer nummer     |
+| 2.2  | Das Programm ist gestartet und ich kann das spiel exiten aber auch nochmals weiterspielen  |  30      |  Zurück zum starterscreen, weiterspielen     |
+| 2.3  | Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.| eine von den 26 buchstaben oder Sonderzeichen |   Warnungsfeld mit "Ihre Eingabe ist ungültig oder wurde nicht erkannt, bitte geben Sie diese erneut ein."|
+| 3.1  | Ein Sie haben gewonnen Screen | 24 |   "Du hast die nummer erraten"|
+| 3.2  | Ein Sie haben "4 versuche gebraucht" | 24 |   "Sie haben 4 versuche gebraucht"|
+| 4.1  | Ein spielen button | Nochmals Spielen | spiel screen |
+| 4.2  | Ein Exit to main screen button | Zum main screen gehen | Main screen |
+| 4.3  | Musik einbauen | nichts | Musik |
+| 4.4  | Applaus sound einbauen | nichts | *klatsch* |
 
 
 ### 1.4 Diagramme
