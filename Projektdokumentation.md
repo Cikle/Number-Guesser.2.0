@@ -10,7 +10,7 @@ Cyril Lutziger
 | 18.08 | 0.0.2   | Projekt wurde vorgestellt, entschieden es mit net. Frameworks zu erstellen. Projekt gestartet   |
 | 25.08 | 0.0.2   | Mit dem projekt weitergemacht                                      |
 | 1.09 | 0.0.2   | Es in OOP umwandeln / Klassen erstellen, bin aber in hindernisse geraten                                      |
-| 9.09 | 0.0.2   | Klassen und alles geflickt. Ein paar fehler behoben                                      |
+| 8.09 | 0.0.2   | Klassen und alles geflickt. Ein paar fehler behoben                                      |
 | 15.09 | 0.0.2   | Projektdokumentation abgeschlossen                                      |
 
 ## 1 Informieren
@@ -63,14 +63,16 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08     |    Cyril Lutziger     |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
-| 2.A  |    30.08   | Cyril Lutziger      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
-| 3.A  |    30.08   | Cyril Lutziger      |     Das designen vom Umfeld des spieles      |     45min      |
-| 4.A  |    06.09   | Cyril Lutziger      |    Problembehebungen des codes       |    90min      |
-| 5.A  |    06.09   | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
-| 6.A  |   06.09   | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
-| 7.A  |    6.09   | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
-| 8.A  |    6.09   | Cyril Lutziger      |    Möchten Sie nochmals Spielen? text      |    45min      |
+| 1.A  |  18.08     |    Cyril Lutziger     |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
+| 2.A  |  18.08     |    Cyril Lutziger     |      Das Programm hat einen Start-screen, Spiel-screen und gewinnerscreen.       |     90min       |
+| 3.A  |    25.08   | Cyril Lutziger      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
+| 4.A  |    25.08   | Cyril Lutziger      |     Das designen vom Umfeld des spieles und die verschiedene Seiten     |     45min      |
+| 5.A  |    1.09   | Cyril Lutziger      |    Problembehebungen des codes       |    90min      |
+| 6.A  |    1.09   | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
+| 7.A  |   8.09   | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
+| 8.A  |    8.09   | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
+| 9.A  |    8.09   | Cyril Lutziger      |    Möchten Sie nochmals Spielen und Exit? Button      |    25min      |
+| 10.A  |    8.09   | Cyril Lutziger      |    Sound und Musik    |    40min      |
 
 Total: 
 
@@ -89,7 +91,7 @@ Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob si
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   30.08    |   Cyril Lutziger        |     2x 45          |      135min           |
+| 1.A  |   18.08    |   Cyril Lutziger        |     2x 45          |      135min           |
 | 2.A  |   30.08    |    Cyril Lutziger       |      45min         |      60min             |
 | 3.A  |   30.08    |    Cyril Lutziger       |      45min         |      30min             |
 | 4.A  |   06.09    |    Cyril Lutziger       |      45min         |      90min             |
