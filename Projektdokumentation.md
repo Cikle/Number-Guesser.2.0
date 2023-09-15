@@ -129,6 +129,6 @@ Ich denke das der User auch wissen will welche nummern er/sie schon eingegeben h
 | 2    |  Main screen  |   Main screen     | Das programm geht zum main screen.|Das programm geht zum main screen. |
 | 3    |  Spiel-screen + resettete nummer   |   Restart button | Das programm / der Spiel screen wird resettet und es wird eine neue Nummer generiert.|  Restart button | Das programm / der Spiel screen wird resettet und es wird eine neue Nummer generiert.  |
 
-## Fazit
+## Auswertung
 
 Ich konnte alle Sachen die ich mir vorgenommen habe umsetzen mit implementation des OOP (Objekt-Orientiertes-Programmieren)
