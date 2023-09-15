@@ -7,8 +7,11 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08 | 0.0.2   | Heute hatten wurde mir das Projekt vorgestellt, welches ich machen muss. Dan nach habe eine PAP designt/erstellt in welcher ich schauen kann wie ich beim Coden vorgehen sollte, auch habe ich verschiedene Probleme angeschaut welche vorkommen könnte sowie auch verschiedene Problem User, welche das Spiel kaputt machen wollen und auch aufgeschrieben was diese machen könnten sowie auch die Lösungen davon.    |
-| 30.08 | 0.0.2   | Heute hatte ich angefangen mit Visual Studions zu arbeiten, also den Code für das Number-guesser-game zu schreiben. Dieser hatte jedenfalls immerwieder Probleme, und ich musste immerwieder meine Mitschüler nach rat fragen, jedoch habe ich zum Schluss der Stunde ein Funktionierendes Spiel das jedoch Visuel noch nocht attraktiv vorkam.                                                           |
+| 18.08 | 0.0.2   | Projekt wurde vorgestellt, entschieden es mit net. Frameworks zu erstellen. Projekt gestartet   |
+| 25.08 | 0.0.2   | Mit dem projekt weitergemacht                                      |
+| 1.09 | 0.0.2   | Es in OOP umwandeln / Klassen erstellen, bin aber in hindernisse geraten                                      |
+| 9.09 | 0.0.2   | Klassen und alles geflickt. Ein paar fehler behoben                                      |
+| 15.09 | 0.0.2   | Projektdokumentation abgeschlossen                                      |
 
 ## 1 Informieren
 
