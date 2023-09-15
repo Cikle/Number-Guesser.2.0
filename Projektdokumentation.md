@@ -131,4 +131,4 @@ Ich denke das der User auch wissen will welche nummern er/sie schon eingegeben h
 
 ## Fazit
 
-Ich konnte alle sachen die ich mir vorgenommen habe umsetzen.
+Ich konnte alle Sachen die ich mir vorgenommen habe umsetzen mit implementation des OOP (Objekt-Orientiertes-Programmieren)
