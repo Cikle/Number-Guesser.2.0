@@ -23,11 +23,15 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |      muss       |  F  | Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
-| 2   |      muss       |   F  |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
-| 3    |      muss      |  F  | Als User möchte ich wissen wenn ich die richtige eingabe getroffen habe, dass ich gewonnen habe, damit das Spiel auch ein Ende hat. |
+| 1  |      muss       |  F  | Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
+| 2  |      muss       |  F  |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
+| 3  |      muss       |  F  | Als User möchte ich wissen wenn ich die richtige eingabe getroffen habe, dass ich gewonnen habe, damit das Spiel auch ein Ende hat. |
 | 4  |      kann       |  Q  |   Es kann ein bequemes design haben damit ich ein gutes Spielerlebniss habe. Es kann auch einen Gewinner-screen haben damit man so wie belohnt wird wenn die richtige Lösung geraten zu haben. |
-| 5  |      kann       |   Q  |   Als ein User möchte ich die Auswahl haben ein neues Spiel zu starten, damit ich nicht die ganze Zeit das Programm neu starten muss. |
+| 5  |      kann       |   Q  |  Als ein User möchte ich die Auswahl haben ein neues Spiel zu starten. |
+| 6  |      muss       |   F  |  Die anzahl von versuchen am schluss des spieles anzeigen. |
+| 7  |      kann       |   Q  |  Musik und Soundeffekte beinhalten. |
+| 8  |      kann       |   Q  |  Das spiel restarten während man am spielen ist. |
+| 9  |      kann       |   Q  |  Das spiel wärend man spielt exiten. |
 
 
 
