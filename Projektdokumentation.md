@@ -112,8 +112,8 @@ Ich denke das der User auch wissen will welche nummern er/sie schon eingegeben h
 
 | TC-№ | Datum | Resultat | Tester |
 | ----- | -------- | ------ | ------- |
-|   1.1     |  18.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Cyril Lutziger      |
-|   2.1     |  18.08   |   Das Programm kann sagen ob die Zahl grösser oder kleiner ist        | Cyril Lutziger      |
+|   1.1    |  18.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Cyril Lutziger      |
+|   2.1    |  18.08   |   Das Programm kann sagen ob die Zahl grösser oder kleiner ist        | Cyril Lutziger      |
 |   3.1    |  25.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Cyril Lutziger      |
 |   4.1    |  1.09     |   Der Neustart und Exit button funktionieren.       | Cyril Lutziger      |
 |   5.1    |  1.09     |   Der Neustart und Exit button funktionieren.       | Cyril Lutziger      |
@@ -125,6 +125,10 @@ Ich denke das der User auch wissen will welche nummern er/sie schon eingegeben h
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| 1   |  |    Aplikation gestartet        |   3,5, -4 oder buchstaben      |  Programm stürzt ab oder eine fehler anzeige                 |      Das Programm bittet um eine erneute Eingabe.                |
+| 1    |  Aplikation gestartet   |   3,5, -4 oder buchstaben      | Das programm fragt nach einer richtigen Zahl.|    Das Programm bittet um eine erneute Eingabe.  |
+| 2    |  Main screen  |   Main screen     | Das programm geht zum main screen.|Das programm geht zum main screen. |
+| 3    |  Spiel-screen + resettete nummer   |   Restart button | Das programm / der Spiel screen wird resettet und es wird eine neue Nummer generiert.|  Restart button | Das programm / der Spiel screen wird resettet und es wird eine neue Nummer generiert.  |
 
-## 6 Auswerten
+## Fazit
+
+Ich konnte alle sachen die ich mir vorgenommen habe umsetzen.
