@@ -54,9 +54,10 @@ Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generi
 
 
 ### 1.4 Diagramme
+![Number-guesser](https://github.com/Cikle/Number-Guesser.2.0/assets/110893288/318a2de7-df0d-4e2d-b8d2-dbb1e497e9f8)
 
 
-![grafik](https://user-images.githubusercontent.com/110893288/186120840-5dbb8864-2cf0-49e8-b3d8-f6934a765235.png)
+
 
 ## 2 Planen
 
