@@ -29,3 +29,4 @@ Während der Entwicklung des Number Guesser-Projekts gab es Herausforderungen wi
 Das Projekt hat meine Kenntnisse in C# und in OOP (Objekt-Orientiertes-Programieren) vertieft und mir wertvolle Erfahrungen in der Arbeit mit WinForms.NET verschafft. Ich habe gelernt, wie man Benutzerinteraktionen effektiv implementiert und wie man  einen Code in Klassen unterteilt.
 
 Insgesamt war das Number Guesser.2.0-Projekt eine gute Erfahrung, die meine Fähigkeiten im Objekt-Orientierten-Programmieren und in der Benutzeroberflächengestaltung erweitert hat.
+[mahara](https://portfolio.bbbaden.ch/view/view.php?t=a5a86d06baddefd34498)
